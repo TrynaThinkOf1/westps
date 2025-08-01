@@ -1,0 +1,7 @@
+fastapi
+starlette
+
+pydantic
+pydantic_core
+
+matplotlib
